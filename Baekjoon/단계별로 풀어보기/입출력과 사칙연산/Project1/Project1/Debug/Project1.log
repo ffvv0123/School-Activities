@@ -1,0 +1,4 @@
+﻿  곱셈.c
+C:\Users\수현\Desktop\코딩\백준\Project1\Project1\곱셈.c(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\수현\Desktop\코딩\백준\Project1\Project1\곱셈.c(8,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project1.vcxproj -> C:\Users\수현\Desktop\코딩\백준\Project1\Debug\Project1.exe

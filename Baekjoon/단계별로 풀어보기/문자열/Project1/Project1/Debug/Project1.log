@@ -1,0 +1,4 @@
+﻿  문자열 반복 (2675).c
+C:\Users\수현\Desktop\코딩\백준\단계별로 풀어보기\문자열\Project1\Project1\문자열 반복 (2675).c(11,6): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\수현\Desktop\코딩\백준\단계별로 풀어보기\문자열\Project1\Project1\문자열 반복 (2675).c(14,32): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  Project1.vcxproj -> C:\Users\수현\Desktop\코딩\백준\단계별로 풀어보기\문자열\Project1\Debug\Project1.exe

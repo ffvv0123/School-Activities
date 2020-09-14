@@ -1,0 +1,4 @@
+﻿  셀프 넘버(4673).c
+C:\Users\수현\Desktop\코딩\백준\단계별로 풀어보기\함수\Project1\Project1\셀프 넘버(4673).c(13,19): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int (*)[10000]'과(와) 다릅니다.
+C:\Users\수현\Desktop\코딩\백준\단계별로 풀어보기\함수\Project1\Project1\셀프 넘버(4673).c(13,19): warning C4024: 'self_number': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  Project1.vcxproj -> C:\Users\수현\Desktop\코딩\백준\단계별로 풀어보기\함수\Project1\Debug\Project1.exe
