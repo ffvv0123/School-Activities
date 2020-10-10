@@ -1,1 +1,1 @@
-# -
+# School contests, homeworks, lectures.
