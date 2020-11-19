@@ -1,0 +1,5 @@
+﻿  과제3.cpp
+C:\Users\수현\Desktop\강의\1학년 2학기\컴언어실습\코딩해보기\1105\Project2\Project2\과제3.cpp(21,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\수현\Desktop\강의\1학년 2학기\컴언어실습\코딩해보기\1105\Project2\Project2\과제3.cpp(36,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\수현\Desktop\강의\1학년 2학기\컴언어실습\코딩해보기\1105\Project2\Project2\과제3.cpp(43,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project2.vcxproj -> C:\Users\수현\Desktop\강의\1학년 2학기\컴언어실습\코딩해보기\1105\Project2\Debug\Project2.exe
